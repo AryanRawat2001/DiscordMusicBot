@@ -1,0 +1,18 @@
+  credits This command returns the credits
+  die     This command returns a random last words
+  hello   This command returns a random welcome message
+  help    Shows this message
+  join    This command makes the bot join the voice channel
+  leave   This command stops the music and makes the bot leave the voice channel
+  loop    This command toggles loop mode
+  pause   This command pauses the song
+  ping    This command returns the latency
+  play    This command plays music
+  resume  This command resumes the song!
+  stop    This command stops the song!
+  version This command shows an bot details embed
+  view    This command shows the queue
+  volume  This command changes the bots volume
+
+Type ?help command for more info on a command.
+You can also type ?help category for more info on a category.
