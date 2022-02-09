@@ -256,4 +256,4 @@ async def version(context):
     await context.message.channel.send(embed=myEmbed) #usual code -> await general_channel.send(embed=myEmbed)
 
 
-client.run('OTM5MjIyMjkyMzM5MjMyODAw.Yf1s7A.ov2bYcnNavGHxUJEDhRzLekvLsI')
+client.run('token')
