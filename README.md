@@ -14,3 +14,4 @@ pip install asyncio
 pip install 
 py -3.6 -m pip install -U discord.py[voice]
 download and add ffmpeg - https://ffmpeg.org/download.html
+Also paste your token in the 'token' space
